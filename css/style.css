@@ -1,0 +1,22 @@
+/* Reset Styles */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* Page 1 Styles */
+.page-1 {
+  width: 50%;
+  height: 300px;
+  background-color: f0f8ff;
+  border: 1px solid ccc;
+}
+
+.page-1 h1 {
+  text-align: center;
+  line-height: 1.5;
+  color: 000
